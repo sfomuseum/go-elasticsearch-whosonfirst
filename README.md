@@ -2,6 +2,10 @@
 
 Go package for indexing Who's On First records in Elasticsearch.
 
+## Important
+
+This package has been deprecated and is no longer maintained. Please use the [whosonfirst/go-whosonfirst-elasticsearch](https://github.com/whosonfirst/go-whosonfirst-elasticsearch) instead.
+
 ## Documentation
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/sfomuseum/go-elasticsearch-whosonfirst.svg)](https://pkg.go.dev/github.com/sfomuseum/go-elasticsearch-whosonfirst)
